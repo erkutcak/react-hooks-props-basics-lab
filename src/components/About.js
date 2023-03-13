@@ -1,7 +1,7 @@
 import React from "react";
 import Links from "./Links";
 
-function About({bio, links}) {
+function About({bio}) {
   return (
     <div id="about">
       <h2>About Me</h2>
@@ -13,6 +13,3 @@ function About({bio, links}) {
 }
 
 export default About;
-
-// they're doing maintenance on the HVAC it's a 
-// little loud lol I cant turn my mic on
