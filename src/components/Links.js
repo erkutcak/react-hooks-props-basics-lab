@@ -1,7 +1,7 @@
 import React from "react";
 
 function Links({ github, linkedin }) {
-  console.log(github);
+
   return (
     <div>
       <h3>Links</h3>
